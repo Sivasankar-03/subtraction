@@ -6,4 +6,5 @@ scanf("%d %d",&a,&b);
 int c=a-b;
 printf("%d",c);
 }
+o/p 2-1=1
 
